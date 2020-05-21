@@ -1,0 +1,9 @@
+{
+  "name": "@commons/basecss",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "dependencies": {
+    "normalize.css": "^8.0.0"
+  },
+  "license": "MIT"
+}

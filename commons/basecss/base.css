@@ -1,0 +1,10 @@
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif,
+    'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+  font-variant: tabular-nums;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+[type='button'] {
+  -webkit-appearance: none;
+}
